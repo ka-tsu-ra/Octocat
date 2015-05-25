@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is a separate stream of development of the code that diverges from the master at some point. The two streams can eventually be merged together so all the changes are encapsulated.
