@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+The upstream remote is the connection you set up between a local repository and a remote one, so you can push changes from the local repository up to the remote one.
